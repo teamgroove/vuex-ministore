@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "name": "vuex-ministore",
+  "scripts": {
+    "dev": "vbuild --dev",
+    "build": "vbuild"
+  }
+}
